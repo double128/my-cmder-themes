@@ -1,5 +1,9 @@
-### my cmder themes 
-I'm not exactly fond of how you're typically supposed to add themes to cmder, so I've created this repository to outline some of my themes I've converted for use in cmder. All these themes are written out in the `#RRGGBB (hex)` format.
+# my cmder themes 
+I'm not really fond of how you're supposed to add new themes to cmder (modifying configuration files), so I figured I'd create a repository for all my theme conversions for cmder.
+
+Please note that these themes are written out in the `#RRGGBB (hex)` format.
+
+--- 
 
 #### [gruvbox dark](https://github.com/morhetz/gruvbox)
 | # | Hex code |
